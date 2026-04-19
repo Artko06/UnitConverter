@@ -1,3 +1,16 @@
+## Unit Converter
+
+Android converter app built with Jetpack Compose.
+It supports three categories: **distance**, **temperature**, and **weight**.
+The UI is optimized for portrait and landscape modes and includes quick actions like unit swap and result copy.
+
+## Technologies
+
+- Kotlin
+- Jetpack Compose + Material 3
+- ViewModel + StateFlow
+- Gradle (Kotlin DSL, Version Catalog)
+
 ## Screenshots
 
 ### Light
